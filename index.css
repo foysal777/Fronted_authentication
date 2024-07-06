@@ -1,0 +1,38 @@
+
+
+
+
+
+.bg_nav {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+
+body {
+
+    background-color: rgb(231, 233, 233) !important;
+    /* font-weight: bold !important; */
+
+  font-family: "Josefin Sans", sans-serif !important;
+  font-optical-sizing: auto;
+  font-weight: 700 !important;
+  font-style: normal;
+
+   
+    font-style: normal;
+}
+
+.nav-link:hover {
+    color: rgb(19, 147, 197) !important;
+  
+}
+
+.nav-link  {
+  font-size: 20px;
+}
+.immmg{
+
+  width: 400px;
+  height: 400px;
+
+}
